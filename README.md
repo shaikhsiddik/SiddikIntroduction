@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, A.I**
 
-- 💬 Ask me about **Kotlin, Java**
+- 💬 Ask me about **Kotlin, Java, Swift, React-native**
 
 - 📫 How to reach me **shaikhsiddik423@gmail.com**
 
